@@ -10,6 +10,8 @@ use Illuminate\Support\Str;
 
 use App\Models\Post;
 
+use App\Models\Category;
+
 class PostController extends Controller
 {
     /**
